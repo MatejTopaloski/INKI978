@@ -1,0 +1,12 @@
+1. After how many Year's FIFA World Cup held?;;; a) 2 Years; b) 3 Years; c) 4 Years; d) Every Year;
+2. Which Country won the first FIFA World Cup?;;; a) Argentina; b) Uruguay; c) Italy; d) Brazil;
+3. Who won the first ICC World Cup?;;; a) India; b) West Indies; c) England; d) Australia;
+4. Who won the first T20 World Cup?;;; a) Pakistan; b) India; c) Sri Lanka; d) West Indies;
+5. Who is known as the Flying Sikh?;;; a) Michael Johnson; b) Usain Bolt; c) Milkha Sing; d) Carl Lewis;
+6. Who has the Highest Number of Gold Medals in Olympic History?;;; a) Larisa Latynina b) Mark Spitz c) Michael Phelps d) Saina Nehwal;
+7. What is the 100m World Record of Usain Bolt?;;; a) 14.35 Sec; b) 9.58 Sec; c) 9.05 Sec; d) 10.12 Sec;
+8. What is the Women’s World Record for the 100-Meter Dash?;;; a) 12.35 Sec; b) 10.45 Sec; c) 9.55 Sec; d) 10.49 Sec;
+9. Where is the Famous Boxer Mary Kom from?;;; a) Manipur; b) Mizoram; c) Nagaland; d) Tripura;
+10. How many FIFA World Cup has been played till 2022?;;; a) 29; b) 52; c) 22; d) 14;
+11. How many times has India won the Men’s Hockey World Cup in the Olympics?;;; a) 3; b) 2; c) 1; d) 0;
+12. Which Female has the Most Olympic Gold Medals in Olympic History?;;; a) Birgit Fischer b) Marit Bjørgen; c) Larisa Latynina; d) Jenny Thompson;
